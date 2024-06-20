@@ -1,0 +1,10 @@
+[package]
+name = "learn-file-reader"
+version = "0.1.0"
+authors = ["Greg Mahatkov <gr.mahatkov@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "learn-file-reader"
+path = "src/main.rs"
